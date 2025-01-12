@@ -5,8 +5,7 @@ I am a 3rd-year computer science student with a passion for exploring and master
 
 # Socials:
 
- - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Rida_Jahan/)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rida-jahan-7ab71a259/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B5DAqTWCwTIOTDIBPUNYx9Q%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rida-jahan-7ab71a259/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B5DAqTWCwTIOTDIBPUNYx9Q%3D%3D) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Rida_Jahan/) 
 
 
 
