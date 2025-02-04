@@ -15,9 +15,6 @@ I am a 3rd-year computer science student with a passion for exploring and master
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 
 
-##  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rida2911&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rida2911&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## GitHub Stats:  
 ![Rida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rida2911&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
