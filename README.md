@@ -19,6 +19,11 @@ I am a 3rd-year computer science student with a passion for exploring and master
 ![](https://github-readme-stats.vercel.app/api?username=rida2911&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rida2911&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## GitHub Stats:  
+![Rida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rida2911&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rida2911&layout=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+
 ##  GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=rida2911&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
