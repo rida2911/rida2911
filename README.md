@@ -1,5 +1,5 @@
-<h1 align="center">Hi 🌼 I'm Rida Jahan</h1>
-<h3 align="center">Empowering minds with code 💻 | Passionate Full Stack Developer | AI & ML Enthusiast 🤖</h3>
+<h1 align="center">Hello  🌸🌈I'm Rida Jahan</h1>
+<h3 align="center">I am a versatile developer passionate about creating innovative, user-centric solutions that make a difference.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rida2911&label=Profile%20views&color=0e75b6&style=flat" alt="rida2911" />
