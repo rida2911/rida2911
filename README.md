@@ -8,7 +8,7 @@
 <img align="right" height="150" src="https://i.pinimg.com/originals/9e/9f/7e/9e9f7e6de051e81d17aa226db56f1c63.gif" />
 
 
-🦋 I’m a 3rd-year Computer Science student passionate about exploring and mastering new                technologies.  
+🦋 I’m a 3rd-year Computer Science student passionate about exploring and mastering new technologies.  
 🌱 Always learning and growing, one step at a time.  
 🌻 Driven to empower and inspire those around me.  
 🌛 Curious and excited to solve real-world problems.
@@ -57,6 +57,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rida2911&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rida2911&theme=tokyonight&hide_border=false"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rida2911&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rida2911&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 
