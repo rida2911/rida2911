@@ -7,11 +7,12 @@
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/9e/9f/7e/9e9f7e6de051e81d17aa226db56f1c63.gif" />
 
-- 🔭 I’m currently working on becoming a **Machine Learning Engineer**
-- 🌱 Currently learning: **AWS | Deep Learning | System Design**
-- 💬 Ask me about **Python, Java, ML, React, FastAPI**
-- 📫 Reach me at: **rida2911@gmail.com**
-- 🌟 Fun fact: I love solving DSA problems & exploring tech content!
+---
+🦋 I’m a 3rd-year Computer Science student passionate about exploring and mastering new                technologies.  
+🌱 Always learning and growing, one step at a time.  
+🌻 Driven to empower and inspire those around me.  
+🌛 Curious and excited to solve real-world problems.
+
 
 ---
 
