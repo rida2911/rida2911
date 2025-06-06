@@ -53,28 +53,13 @@
 </p> 
 
 
-
-###  GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rida2911&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rida2911&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rida2911&theme=tokyonight&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rida2911&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rida2911&layout=compact&theme=dark&hide_border=false" />
-</p>
 
----
-
-### 🏆 GitHub Trophies:
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=rida2911&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
-  
-
----
-
-### 🐍 Snake Contribution Animation:
 <p align="center">
   <img src="https://raw.githubusercontent.com/rida2911/rida2911/output/snake.svg" alt="Snake animation" />
 </p>
