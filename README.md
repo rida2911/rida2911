@@ -8,7 +8,7 @@
 <img align="right" height="150" src="https://i.pinimg.com/originals/9e/9f/7e/9e9f7e6de051e81d17aa226db56f1c63.gif" />
 
 
-🦋 I’m a 3rd-year Computer Science student passionate about exploring and mastering new technologies.  
+🦋 I’m a Final-year Computer Science student passionate about exploring and mastering new technologies.  
 🌱 Always learning and growing, one step at a time.  
 🌻 Driven to empower and inspire those around me.  
 🌛 Curious and excited to solve real-world problems.
