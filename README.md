@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=rida2911&label=Profile%20views&color=0e75b6&style=flat" alt="rida2911" />
 </p>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/9e/9f/7e/9e9f7e6de051e81d17aa226db56f1c63.gif" />
 
 
 🦋 I’m a Final-year Computer Science student passionate about exploring and mastering new technologies.  
